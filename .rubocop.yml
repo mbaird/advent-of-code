@@ -6,3 +6,9 @@ Style:
 
 Lint/DuplicateMethods:
   Enabled: false
+
+Metrics/AbcSize:
+  Enabled: false
+
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented
